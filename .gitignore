@@ -11,12 +11,12 @@
 # production
 /build
 
-.serviceWorker.js
-.setupTests.js
-.index.js
-.index.css
+serviceWorker.js
+setupTests.js
+index.js
+index.css
 
-/public
+public/
 
 # misc
 .DS_Store
